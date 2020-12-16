@@ -47,10 +47,10 @@ int main(void)
     cout<<"right_index : "<<right_index<<'\n';
     cout<<"Total time taken to execute is : "<<elapsed.count()<<" microseconds.";
 }
-"""
+/*
 Output-
 maximum sum : 1412138
 left index : 178
 right_index : 261
 Total time taken to execute is : 15992 microseconds.
-"""
+*/
