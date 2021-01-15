@@ -1,8 +1,8 @@
-# Data_structures_in_cpp
+The Algorithms are reference from book : 
 
-The algorithms are from the book **INTRODUCTION TO ALGORITHM**
+**Introduction to Algorithms**
 
-**by** -
+Authors are  : 
 
 **THOMAS H. CORMEN**
 
