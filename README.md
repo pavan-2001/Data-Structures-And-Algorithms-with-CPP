@@ -1,8 +1,6 @@
-The Algorithms are reference from book : 
+# Introduction to Algorithms
 
-**Introduction to Algorithms**
-
-Authors are  : 
+By - 
 
 **THOMAS H. CORMEN**
 
